@@ -1,0 +1,16 @@
+name       : perl-file-temp
+version    : '0.2304'
+release    : 1
+source     :
+    - http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/File-Temp-0.2304.tar.gz : 13415323e48f7c9f34efdedf3d35141a7c3435e2beb8c6b922229dc317d321ac
+license    : Artistic-1.0-Perl
+component  : programming.perl
+summary    : File::Temp can be used to create and open temporary files in a safe way
+description: |
+    File::Temp can be used to create and open temporary files in a safe way
+setup      : |
+    %perl_setup
+build      : |
+    %perl_build
+install    : |-
+    %perl_install
