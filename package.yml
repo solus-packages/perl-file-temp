@@ -1,8 +1,8 @@
 name       : perl-file-temp
-version    : '0.2306'
-release    : 3
+version    : '0.2308'
+release    : 4
 source     :
-    - https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Temp-0.2306.tar.gz : 65e992d9e3093e8a66221f6a292d04431b05c91c29cdd86b5f7b5952f1bd8294
+    - https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Temp-0.2308.tar.gz : 1ca1cb22e2ab1592e864b17c861113b5960e54d398726befc90559fb8df8d1d4
 license    : Artistic-1.0-Perl
 component  : programming.perl
 homepage   : https://github.com/Perl-Toolchain-Gang/File-Temp
