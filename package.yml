@@ -1,6 +1,6 @@
 name       : perl-file-temp
 version    : '0.2308'
-release    : 5
+release    : 6
 source     :
     - https://cpan.metacpan.org/authors/id/E/ET/ETHER/File-Temp-0.2308.tar.gz : 1ca1cb22e2ab1592e864b17c861113b5960e54d398726befc90559fb8df8d1d4
 license    : Artistic-1.0-Perl
